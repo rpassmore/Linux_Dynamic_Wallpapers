@@ -1,7 +1,7 @@
 #!/bin/bash
 WALPAPER_DEST="/usr/share/backgrounds/Dynamic_Wallpapers"
 XML_DEST="/usr/share/gnome-background-properties/"
-GIT_URL="https://github.com/saint-13/Linux_Dynamic_Wallpapers.git/"
+GIT_URL="https://github.com/rpassmore/Linux_Dynamic_Wallpapers.git/"
 
 # Clone .git folder -> Lightweigh checkout
 git clone --filter=blob:none --no-checkout "$GIT_URL"
